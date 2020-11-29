@@ -1,0 +1,96 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800';
+* {
+    font-family: roboto,sans-serif}
+.mt-50 {
+    margin-top: 30px}
+.mt-51 {
+    margin-top: 30px}
+.card {
+    background: #fff;
+    padding: 0 0 20px;
+    box-shadow: 0 0 10px #ccc}
+body {
+    background: #f7f7f7}
+.btn-success {
+    color: #fff;
+    background-color: #e95644;
+    border-color: #e95644}
+.logo_header {
+    background: #0881b5;
+    display: block;
+    padding: 5px;
+    text-align: center}
+.inner-card {
+    padding: 20px 20px 0}
+.eight {
+    height: 50px;
+    background: url(eight-sec.jpg) center center;
+    position: relative;
+    padding: 100px}
+.row {
+    margin: 0!important}
+:: -webkit-scrollbar {
+    -webkit-appearance: none}
+:: -webkit-scrollbar: vertical {
+    width: 15px}
+:: -webkit-scrollbar: horizontal {
+    height: 12px}
+:: -webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,.5);
+    border-radius: 10px;
+    border: 2px solid #fff}
+:: -webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #fff}
+.mobile {
+    display: none}
+@media(max-width: 772px) {
+    .mobile {
+    display: inline-block}
+.desktop {
+    display: none}
+}
+#con {
+    padding-right: 0;
+    padding-left: 0;
+    overflow-x: hidden}
+#coupon_zone {
+    margin-left: 10px;
+    font-weight: 700;
+    color: #fff;
+    font-size: 25px;
+    }
+#sidbutton {
+    background-color: #25aae3;
+    border-color: #fff;
+    padding: 10px 16px;
+    font-size: 16px;
+    line-height: 1.3333333;
+    border-radius: 6px}
+#winners {
+    font-weight: 700;
+    background-color: #30515f;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 17px;
+    border-color: #fff}
+#winners1 {
+    font-weight: 700;
+    background-color: #25aae3;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 17px;
+    border-color: #fff}
+#sidtable {
+    overflow-y: scroll;
+    height: 250px;
+    margin-bottom: 10px}
+#f2sbanner {
+    margin-left: -20px!important;
+    margin-right: -20px!important}
+@media(max-width: 500px) {
+    .card {
+    padding: 0 0 0}
+.mt-50 {
+    margin-top: 0}
+}
