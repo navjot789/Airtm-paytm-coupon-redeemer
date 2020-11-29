@@ -3,7 +3,7 @@ Airtm is a tool to increase youtube subscribers just by giving users to free Pay
 # How its works?
 Once your youtube channel is setup, You need to edit a video in such a way that your free coupon show randomly at any point in your youtube video. This way your subscribers cannot predict your coupon display timming in your video. Ultimately users have to watch all the way along your video to find free coupon. Once they findout they need to enter coupon inside Airtm tool to redeem it.
 # View
-<img src="documentation/1.png" />
+<img src="documentation/1.png" height="600" width="400"/>
 
 # Installation
 
