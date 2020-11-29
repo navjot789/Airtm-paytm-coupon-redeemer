@@ -10,4 +10,17 @@ Once your youtube channel is setup, You need to edit a video in such a way that 
 > Put zip file into your `wamp/www` folder and unzip there.
 > Import `SQL` file into myphpadmin.
 
+# SMTP Config
+Setup SMTP config according to you in `include/function.php`
+```PHP
+$mail->Host = 'HOST';//server host here
+$mail->Username = 'USERNAME'; //server email
+$mail->Password = 'PASSWORD'; // server password
+$mail->setFrom('EMAIL@GMAIL.COM');
+$mail->addReplyTo('EMAIL@GMAIL.COM');
+```PHP
+
+# Test
+ Rs.10 Paytm coupon `AY65HDSDRFDW`
+
 
