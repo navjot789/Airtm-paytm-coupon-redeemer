@@ -6,11 +6,11 @@ Once your youtube channel is setup, You need to edit a video in such a way that 
 1. STEP: Enter coupon.
 <img src="documentation/1.png" height="600" width="400"/>
 2. STEP: Enter details.
-<img src="documentation/2.png" height="600" width="300"/>
+<img src="documentation/2.png" height="300" width="300"/>
 3. STEP: Enter OTP salt.
-<img src="documentation/3.png" height="600" width="300"/>
+<img src="documentation/3.png" height="300" width="300"/>
 4. STEP: Enter Paytm Number.
-<img src="documentation/4.png" height="600" width="300"/>
+<img src="documentation/4.png" height="300" width="300"/>
 
 # Installation
 
