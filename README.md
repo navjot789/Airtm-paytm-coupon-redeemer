@@ -18,8 +18,7 @@ $mail->Username = 'USERNAME'; //server email
 $mail->Password = 'PASSWORD'; // server password
 $mail->setFrom('EMAIL@GMAIL.COM');
 $mail->addReplyTo('EMAIL@GMAIL.COM');
-```PHP
-
+```
 # Test
  Rs.10 Paytm coupon `AY65HDSDRFDW`
 
