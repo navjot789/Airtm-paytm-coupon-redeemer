@@ -7,7 +7,9 @@ Once your youtube channel is setup, You need to edit a video in such a way that 
 <img src="documentation/1.png" height="600" width="400"/>
 2. STEP: Enter details.
 <img src="documentation/2.png" height="600" width="400"/>
+3. STEP: Enter OTP salt.
 <img src="documentation/3.png" height="600" width="400"/>
+4. STEP: Enter Paytm Number.
 <img src="documentation/4.png" height="600" width="400"/>
 
 # Installation
